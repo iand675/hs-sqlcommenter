@@ -1,0 +1,6 @@
+.stack-work/
+*~
+dist-newstyle/
+.devenv/
+.direnv/
+.pre-commit-config.yaml
